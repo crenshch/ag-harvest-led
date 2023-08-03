@@ -1,0 +1,13 @@
+"Source:","/home/connor/Sync/Electronics/AG_HARVEST_LED/AG_HARVEST_LED.kicad_sch"
+"Date:","Wed 02 Aug 2023 08:48:46 PM EDT"
+"Tool:","Eeschema 7.0.6-7.0.6~ubuntu22.04.1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","82"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","Mfr","Mfr. P/N"
+"1","2","B1, B2","BLUE","Device:LED","PCB Libraries:Sunplus2835","~","","Lumileds","L1SP-RYL0002800000"
+"2","37","K1, K2, K3, K4, K5, K6, K7, K8, K9, K10, K11, K12, K13, K14, K15, K16, K17, K18, K19, K20, K21, K22, K23, K24, K25, K26, K27, K28, K29, K30, K31, K32, K33, K34, K35, K36, K37","WARM","Device:LED","PCB Libraries:LM281B+","~","","Samsung","SPMWH1228MD5WARMVL"
+"3","6","R1, R2, R3, R4, R5, R6","RED","Device:LED","PCB Libraries:Sunplus2835","~","","Lumileds","L1SP-DRD0002800000"
+"4","37","W1, W2, W3, W4, W5, W6, W7, W8, W9, W10, W11, W12, W13, W14, W15, W16, W17, W18, W19, W20, W21, W22, W23, W24, W25, W26, W27, W28, W29, W30, W31, W32, W33, W34, W35, W36, W37","COOL","Device:LED","PCB Libraries:LM281B+","~","","Samsung","SPMWH1228MD5WAPMVL"
